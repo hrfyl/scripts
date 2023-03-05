@@ -12,3 +12,4 @@
 # MATCH：全匹配
 
 payload:
+  - DOMAIN-SUFFIX,hrfyl.net

@@ -12,3 +12,7 @@
 # MATCH：全匹配
 
 payload:
+  - DOMAIN,r.51wnl-cq.com
+  - DOMAIN,ad.51wnl-cq.com
+  - DOMAIN,log.51wnl-cq.com
+  - DOMAIN,adextra.51wnl-cq.com
