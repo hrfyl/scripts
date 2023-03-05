@@ -12,5 +12,3 @@
 # MATCH：全匹配
 
 payload:
-  # - DOMAIN-SUFFIX,oracle.com
-  # - DOMAIN-SUFFIX,hostloc.com
