@@ -1,0 +1,6 @@
+*.git/
+*.svn/
+*.vscode/
+*.o
+*.pyc
+openclash/config.yaml
