@@ -12,9 +12,10 @@
 # MATCH：全匹配
 
 payload:
-  # - DOMAIN-SUFFIX,chat.bilibili.com
   - DOMAIN,tx-gz-live-p2p.chat.bilibili.com
   - DOMAIN,tx-gz-live-p2p-01.chat.bilibili.com
   - DOMAIN,tx-gz-live-p2p-02.chat.bilibili.com
   - DOMAIN,tx-gz-live-p2p-03.chat.bilibili.com
   - DOMAIN,tx-gz-live-p2p-04.chat.bilibili.com
+  # DouYu P2P
+  - DOMAIN,p2pchunk-tx.douyucdn.cn
