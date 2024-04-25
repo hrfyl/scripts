@@ -12,6 +12,4 @@
 # MATCH：全匹配
 
 payload:
-  - DOMAIN,stun.chat.bilibili.com
-  - DOMAIN,stun-1.chat.bilibili.com
-  - DOMAIN,stun-2.chat.bilibili.com
+  - DOMAIN-SUFFIX,chat.bilibili.com
