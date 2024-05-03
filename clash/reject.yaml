@@ -15,10 +15,21 @@ payload:
   # Bilibili 直播横幅广告
   - DOMAIN,broadcast.chat.bilibili.com
   # Bilibili p2p
+  - DOMAIN,tracker.chat.bilibili.com
   - DOMAIN,cn-hnld-ccc-live-tracker.chat.bilibili.com
   - DOMAIN,cn-hnld-ccc-live-tracker-01.chat.bilibili.com
   - DOMAIN,cn-hnld-ccc-live-tracker-02.chat.bilibili.com
   - DOMAIN,cn-hnld-ccc-live-tracker-03.chat.bilibili.com
   - DOMAIN,cn-hnld-ccc-live-tracker-04.chat.bilibili.com
+  - DOMAIN,cn-sdqd-ccc-live-tracker.chat.bilibili.com
+  - DOMAIN,cn-sdqd-ccc-live-tracker-01.chat.bilibili.com
+  - DOMAIN,cn-sdqd-ccc-live-tracker-02.chat.bilibili.com
+  - DOMAIN,cn-sdqd-ccc-live-tracker-03.chat.bilibili.com
+  - DOMAIN,cn-sdqd-ccc-live-tracker-04.chat.bilibili.com
+  - DOMAIN,cn-jsyz-ccc-live-tracker.chat.bilibili.com
+  - DOMAIN,cn-jsyz-ccc-live-tracker-01.chat.bilibili.com
+  - DOMAIN,cn-jsyz-ccc-live-tracker-02.chat.bilibili.com
+  - DOMAIN,cn-jsyz-ccc-live-tracker-03.chat.bilibili.com
+  - DOMAIN,cn-jsyz-ccc-live-tracker-04.chat.bilibili.com
   # DouYu P2P
   - DOMAIN,p2pchunk-tx.douyucdn.cn
