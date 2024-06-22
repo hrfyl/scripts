@@ -12,5 +12,6 @@
 # MATCH：全匹配
 
 payload:
+  - DOMAIN-SUFFIX,v6.navy
   - DOMAIN-SUFFIX,hrfyl.net
   - DOMAIN-SUFFIX,iqiyi.com
