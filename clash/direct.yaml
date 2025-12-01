@@ -17,5 +17,8 @@ payload:
   - DOMAIN-SUFFIX,hrfyl.com
   - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,wikiloc.com
-  - DOMAIN-SUFFIX,mitvbox.xyz
+  - IP-CIDR,154.17.227.241/32
+  - IP-CIDR6,2605:52c0:1:c51:d03d:bfff:fede:34c0/128
+  - IP-CIDR,45.8.114.4/32
+  - IP-CIDR,129.154.60.34/32
   
