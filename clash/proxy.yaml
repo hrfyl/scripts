@@ -16,7 +16,10 @@ payload:
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,vps.hosting
   - DOMAIN-SUFFIX,bandwagonhost.com
-  - DOMAIN-SUFFIX,histar.tv
-  - DOMAIN-SUFFIX,nnr.moe
+  # Google play
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,xn–ngstr-lra8j.com
+  - DOMAIN-SUFFIX,xn–ngstr-cn-8za9o.com
+  # altstore
   - DOMAIN,cdn.altstore.io
   - DOMAIN,gsa.apple.com
